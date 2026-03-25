@@ -24,10 +24,11 @@ To create a Java program demonstrating method overriding by defining a base clas
 
 ## PROGRAM:
  ```
-/*
+
 Program to implement a Polymorphism using Java
 Developed by: GOKUL M
-Register Number: 212222230037*/
+Register Number: 212222230037
+
 ```
 
 ## SOURCE CODE:
